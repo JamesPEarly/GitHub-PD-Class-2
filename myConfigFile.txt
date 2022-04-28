@@ -3,3 +3,5 @@
 var1=10
 
 var2=Friday
+
+var3=April28
